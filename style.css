@@ -1,0 +1,13 @@
+table, td{
+    border: 3px solid rgb(72, 110, 0);
+    border-collapse: collapse;
+}
+table{
+    width: 300 px;
+}
+img{
+   width: 200px; 
+}
+p{
+    text-align: right;
+}
